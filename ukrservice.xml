@@ -7922,8 +7922,8 @@
   </offer>
   <offer id="ukr-3340">
     <vendorCode>3340</vendorCode>
-    <price>2821.62</price>
-    <price_special></price_special>
+    <price>2821.00</price>
+    <price_special>2399.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3608">
@@ -8090,8 +8090,8 @@
   </offer>
   <offer id="ukr-2896">
     <vendorCode>2896</vendorCode>
-    <price>3578.08</price>
-    <price_special></price_special>
+    <price>3578.00</price>
+    <price_special>3199.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-2897">
@@ -8234,8 +8234,8 @@
   </offer>
   <offer id="ukr-3049">
     <vendorCode>3049</vendorCode>
-    <price>2006.52</price>
-    <price_special></price_special>
+    <price>2006.00</price>
+    <price_special>1799.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3051">
@@ -8324,8 +8324,8 @@
   </offer>
   <offer id="ukr-3638">
     <vendorCode>3638</vendorCode>
-    <price>2452.60</price>
-    <price_special></price_special>
+    <price>2452.00</price>
+    <price_special>2199.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3943">
@@ -8348,8 +8348,8 @@
   </offer>
   <offer id="ukr-3892">
     <vendorCode>3892</vendorCode>
-    <price>4005.62</price>
-    <price_special></price_special>
+    <price>4005.00</price>
+    <price_special>3499.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-4086">
