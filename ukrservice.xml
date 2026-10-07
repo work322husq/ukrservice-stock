@@ -11826,4 +11826,16 @@
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="ukr-38738">
+    <vendorCode>38738</vendorCode>
+    <price>459999.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="ukr-36309">
+    <vendorCode>36309</vendorCode>
+    <price>69999.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
 </offers>
