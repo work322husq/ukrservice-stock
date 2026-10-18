@@ -11838,4 +11838,22 @@
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="ukr-36415">
+    <vendorCode>36415</vendorCode>
+    <price>94999.02</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="ukr-92004">
+    <vendorCode>92004</vendorCode>
+    <price>89246.88</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="ukr-92227">
+    <vendorCode>92227</vendorCode>
+    <price>30938.15</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
 </offers>
