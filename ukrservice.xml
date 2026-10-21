@@ -11856,4 +11856,10 @@
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="ukr-34544">
+    <vendorCode>34544</vendorCode>
+    <price>30898.83</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
 </offers>
