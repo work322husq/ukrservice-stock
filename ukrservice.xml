@@ -2084,8 +2084,8 @@
   </offer>
   <offer id="ukr-33465">
     <vendorCode>33465</vendorCode>
-    <price>67590.10</price>
-    <price_special></price_special>
+    <price>67590.00</price>
+    <price_special>63999.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-33466">
@@ -7808,14 +7808,14 @@
   </offer>
   <offer id="ukr-3733">
     <vendorCode>3733</vendorCode>
-    <price>3385.00</price>
-    <price_special>2999.00</price_special>
+    <price>3385.68</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3735">
     <vendorCode>3735</vendorCode>
-    <price>6433.00</price>
-    <price_special>5999.00</price_special>
+    <price>6433.79</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-2280">
@@ -7832,8 +7832,8 @@
   </offer>
   <offer id="ukr-2892">
     <vendorCode>2892</vendorCode>
-    <price>4341.00</price>
-    <price_special>3999.00</price_special>
+    <price>4340.97</price>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-2893">
@@ -7851,7 +7851,7 @@
   <offer id="ukr-2627">
     <vendorCode>2627</vendorCode>
     <price>2231.00</price>
-    <price_special>1598.99</price_special>
+    <price_special>1599.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3206">
@@ -7892,8 +7892,8 @@
   </offer>
   <offer id="ukr-2908">
     <vendorCode>2908</vendorCode>
-    <price>2356.00</price>
-    <price_special>1899.00</price_special>
+    <price>2355.98</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3129">
@@ -7934,8 +7934,8 @@
   </offer>
   <offer id="ukr-2553">
     <vendorCode>2553</vendorCode>
-    <price>16871.00</price>
-    <price_special>14999.00</price_special>
+    <price>16871.22</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-2554">
@@ -7964,8 +7964,8 @@
   </offer>
   <offer id="ukr-2906">
     <vendorCode>2906</vendorCode>
-    <price>4713.00</price>
-    <price_special>3299.00</price_special>
+    <price>4713.11</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3035">
@@ -8240,8 +8240,8 @@
   </offer>
   <offer id="ukr-3051">
     <vendorCode>3051</vendorCode>
-    <price>326.00</price>
-    <price_special>299.00</price_special>
+    <price>326.58</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3052">
@@ -8252,8 +8252,8 @@
   </offer>
   <offer id="ukr-3202">
     <vendorCode>3202</vendorCode>
-    <price>2811.00</price>
-    <price_special>1799.00</price_special>
+    <price>2811.07</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3203">
@@ -8288,8 +8288,8 @@
   </offer>
   <offer id="ukr-3344">
     <vendorCode>3344</vendorCode>
-    <price>378.00</price>
-    <price_special>299.00</price_special>
+    <price>378.31</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3345">
@@ -8342,8 +8342,8 @@
   </offer>
   <offer id="ukr-3891">
     <vendorCode>3891</vendorCode>
-    <price>3118.00</price>
-    <price_special>2599.00</price_special>
+    <price>3118.59</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-3892">
@@ -11444,8 +11444,8 @@
   </offer>
   <offer id="ukr-2698">
     <vendorCode>2698</vendorCode>
-    <price>875.00</price>
-    <price_special>740.00</price_special>
+    <price>875.76</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-2699">
@@ -11463,7 +11463,7 @@
   <offer id="ukr-2702">
     <vendorCode>2702</vendorCode>
     <price>2191.00</price>
-    <price_special>1799.00</price_special>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-2912">
@@ -11486,8 +11486,8 @@
   </offer>
   <offer id="ukr-3639">
     <vendorCode>3639</vendorCode>
-    <price>1353.00</price>
-    <price_special>1099.00</price_special>
+    <price>1353.68</price>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-82921">
