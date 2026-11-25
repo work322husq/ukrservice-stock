@@ -1144,7 +1144,7 @@
     <vendorCode>39947</vendorCode>
     <price>9614.86</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-39948">
     <vendorCode>39948</vendorCode>
@@ -1156,7 +1156,7 @@
     <vendorCode>39949</vendorCode>
     <price>11639.23</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-39950">
     <vendorCode>39950</vendorCode>
@@ -1552,7 +1552,7 @@
     <vendorCode>366797</vendorCode>
     <price>2734.08</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-366866">
     <vendorCode>366866</vendorCode>
@@ -2044,7 +2044,7 @@
     <vendorCode>32769</vendorCode>
     <price>18820.00</price>
     <price_special>16999.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-32770">
     <vendorCode>32770</vendorCode>
@@ -2530,7 +2530,7 @@
     <vendorCode>27157</vendorCode>
     <price>48276.00</price>
     <price_special>42599.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-27158">
     <vendorCode>27158</vendorCode>
@@ -2974,7 +2974,7 @@
     <vendorCode>92036</vendorCode>
     <price>39935.75</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-92219">
     <vendorCode>92219</vendorCode>
@@ -3004,7 +3004,7 @@
     <vendorCode>92251</vendorCode>
     <price>15592.24</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-92256">
     <vendorCode>92256</vendorCode>
@@ -4306,7 +4306,7 @@
     <vendorCode>15863</vendorCode>
     <price>23.83</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-15867">
     <vendorCode>15867</vendorCode>
@@ -7912,7 +7912,7 @@
     <vendorCode>3609</vendorCode>
     <price>7770.75</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-2282">
     <vendorCode>2282</vendorCode>
@@ -8266,7 +8266,7 @@
     <vendorCode>3204</vendorCode>
     <price>1692.33</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-3208">
     <vendorCode>3208</vendorCode>
@@ -11128,7 +11128,7 @@
     <vendorCode>34115</vendorCode>
     <price>237564.44</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-34124">
     <vendorCode>34124</vendorCode>
@@ -11218,7 +11218,7 @@
     <vendorCode>34388</vendorCode>
     <price>319703.75</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="ukr-34054">
     <vendorCode>34054</vendorCode>
@@ -11614,7 +11614,7 @@
     <vendorCode>83923</vendorCode>
     <price>23365.26</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-83924">
     <vendorCode>83924</vendorCode>
@@ -11818,7 +11818,7 @@
     <vendorCode>872600</vendorCode>
     <price>2605.88</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="ukr-83235">
     <vendorCode>83235</vendorCode>
