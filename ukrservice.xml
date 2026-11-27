@@ -11976,4 +11976,16 @@
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="ukr-227640">
+    <vendorCode>SDI-H2-151</vendorCode>
+    <price>159.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="ukr-227644">
+    <vendorCode>SDI-L6-151</vendorCode>
+    <price>159.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
 </offers>
